@@ -1,6 +1,6 @@
 # A comparison of the binding sites of antibodies and single-domain antibodies
 
-Code to accompany the paper titled: "A comparison of the binding sites of antibodies and single-domain antibodies"
+Code to accompany the paper titled: "A comparison of the binding sites of antibodies and single-domain antibodies", which can be found at: https://doi.org/10.3389/fimmu.2023.1231623
 
 <p align="center">
   <img width="575" height="400" src="sdabs_vs_abs.png">
